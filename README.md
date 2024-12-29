@@ -27,7 +27,7 @@ BiocManager::install("PlasmodiumgenomeData")
 Before submission to Bioconductor, you can install the development version directly from GitHub:
 
 ```R
-devtools::install_github("yourusername/PlasmodiumgenomeData")
+devtools::install_github("ocheab/PlasmodiumgenomeData")
 ```
 
 ## Usage

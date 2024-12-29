@@ -1,0 +1,13 @@
+Package: PlasmodiumgenomeData
+Title: Data Package for Plasmodium Genomes
+Version: 0.0.1
+Authors@R: 
+    c(
+        person("George", "Oche Ambrose", email = "ocheab1@gmail.com", role = c("aut", "cre")),
+        person("Kolawole", "Ajayi", role = "ctb")
+    )
+Description: Contains genome sequences for five species of Plasmodium, used in bioinformatics and genomic analysis.
+License: MIT+ file LICENSE
+Encoding: UTF-8
+LazyData: true
+biocViews: AnnotationHubSoftware, DataImport, GUI, Infrastructure, Software, ThirdPartyClient
